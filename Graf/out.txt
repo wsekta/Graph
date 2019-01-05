@@ -1,0 +1,34 @@
+Number of vertex: 0
+Shop
+
+Number of vertex: 1
+House
+Index of the nearest shop: 0
+Distance to shop: 1.000000km
+Way to the shop: 1->0
+Track time: 0.25 h = 15.00 min 
+ 
+Number of vertex: 2
+House
+Index of the nearest shop: 0
+Distance to shop: 2.000000km
+Way to the shop: 2->0
+Track time: 0.50 h = 30.00 min 
+ 
+Number of vertex: 3
+House
+Index of the nearest shop: 0
+Distance to shop: 1.500000km
+Way to the shop: 3->0
+Track time: 0.38 h = 22.50 min 
+ 
+Number of vertex: 4
+House
+Index of the nearest shop: 5
+Distance to shop: 0.500000km
+Way to the shop: 4->5
+Track time: 0.13 h = 7.50 min 
+ 
+Number of vertex: 5
+Shop
+
